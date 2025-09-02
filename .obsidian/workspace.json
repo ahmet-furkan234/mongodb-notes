@@ -11,14 +11,10 @@
             "id": "c8b525cb92322f6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "git test"
+              "title": "Yeni sekme"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git test ana hatları"
+              "title": "Anahat"
             }
           }
         ],
@@ -176,6 +171,7 @@
   "active": "c8b525cb92322f6e",
   "lastOpenFiles": [
     "git test.md",
+    "git push.md",
     "Git Test.md",
     "Collection Methods/Delete Methods.md",
     "Aggregation Framework/$lookup.md",
@@ -200,7 +196,6 @@
     "Aggregation Framework/$facet 3.md",
     "Aggregation Framework/$facet 2.md",
     "Aggregation Framework/$addFields.md",
-    "$skip(), $limit().md",
     "Kafka/Başlıksız",
     "Kafka",
     "Conditional Methods",
