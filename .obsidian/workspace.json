@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "listCollections.md",
+                "file": "BASE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "listCollections"
+              "title": "BASE"
             }
           }
         ]
@@ -174,6 +174,11 @@
   },
   "active": "c8b525cb92322f6e",
   "lastOpenFiles": [
+    "CAP.md",
+    "Cursor.md",
+    "listCollections.md",
+    "Veri Tipleri/Array.md",
+    "$accumulator.md",
     "git test.md",
     "git push.md",
     "Git Test.md",
@@ -195,11 +200,6 @@
     "Conditional Methods/$ifNull.md",
     "Query Operators/Array Operators/$size.md",
     "Query Operators/Comparison Operators/$eq.md",
-    "Aggregation Framework/$facet 5.md",
-    "Aggregation Framework/$facet 4.md",
-    "Aggregation Framework/$facet 3.md",
-    "Aggregation Framework/$facet 2.md",
-    "Aggregation Framework/$addFields.md",
     "Kafka/Başlıksız",
     "Kafka",
     "Conditional Methods",
